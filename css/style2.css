@@ -23,6 +23,7 @@ body{
     min-width: 200px;
     color: white;
     opacity: 0.7;
+    margin-bottom:30vh;
 }
 
 .game2:hover{
